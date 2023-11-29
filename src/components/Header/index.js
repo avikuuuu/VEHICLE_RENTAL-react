@@ -98,6 +98,12 @@ const Header = () => {
           <span className="navbar-toggler-icon"></span>
         </button>
 
+        {/* <section className={styles["donut-up"]}>
+          <img src="../assets/img/logo.png" alt="Logo" />
+        </section> */}
+
+
+
         <section className={styles["donut-up"]}>
           <span className={styles["circle-black"]}></span>
           <span className={styles["circle-yellow"]}></span>
