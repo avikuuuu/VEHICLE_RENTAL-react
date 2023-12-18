@@ -217,7 +217,7 @@ main {
   margin-top: 5px;
 
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 
   @media (min-width: 768px) {
     width: 90%;
@@ -266,7 +266,7 @@ main {
   margin-top: 5px;
 
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 
   @media (min-width: 768px) {
     width: 90%;
@@ -284,7 +284,7 @@ main {
   margin-top: 5px;
 
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 
   @media (min-width: 1024px) {
     width: 20%;
